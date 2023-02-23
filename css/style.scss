@@ -1,7 +1,7 @@
 $white: #ffffff;
 $black: #252525;
-$primary1: #3554d1;
-$primary2: #0f2480;
+$primary1: rgb(121, 85, 72);
+$primary2: rgb(25, 118, 210);
 
 
 @mixin main-font {
@@ -91,7 +91,7 @@ body {
   .hero_area {
     height: auto;
     background: none;
-    background-color: #0f2480;
+    background-color: rgb(25, 118, 210);
   }
 }
 
